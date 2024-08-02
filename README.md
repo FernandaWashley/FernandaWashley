@@ -1,6 +1,6 @@
 BEM VINDOS AO MEU PERFIL 💛
 
-Meu nome é Fernanda Washley 
+Meu nome é Felipe Moraes 
 
 Estou estudando na Alura
 
@@ -11,4 +11,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 Você pode entrar em contato comigo 📫
 
-fernandawashley.ferrer@gmail.com 
+  
