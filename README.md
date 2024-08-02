@@ -1,7 +1,6 @@
 BEM VINDOS AO MEU PERFIL 💛
 
-Meu nome é Felipe Moraes 
-
+Meu nome é Fernanda Washley
 Estou estudando na Alura
 
 Estou me desenvolvendo na linguagem JavaScript
